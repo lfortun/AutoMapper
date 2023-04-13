@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IXUwJm8ap/u8nk7xS1x1MEnGVtIyVHrA4b3sIvSJVEDIcDCuySoE3LzoPUeAOdqfTjCSpgepP1yIaABirYjD8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lfortun\\source\\repos\\Chapter Dev\\GitHubAutoMapper\\AutoMapperApi\\AutoMapperApi\\AutoMapperApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lfortun\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\lfortun\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
